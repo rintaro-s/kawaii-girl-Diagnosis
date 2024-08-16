@@ -1,6 +1,6 @@
 <h2>imagesフォルダーは著作権やコンプラ面でアップロードしていません。</h2>
  ![combined_plots](https://github.com/user-attachments/assets/d8ec4846-5ad0-41ca-b8a0-34b396842382)
-　<br>（画像は僕の好みです）
+　<br>（画像は僕の友達です）
 <h2>動き</h2>
 今のころはこんな感じです。<br>
 女の子の写真をみて、点数をつけて、タグ別に評価したいです。
