@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^22.3.0",
+    "csv-parser": "^3.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
