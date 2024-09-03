@@ -1,6 +1,7 @@
 <h1>imagesフォルダーは著作権やコンプラ面でアップロードしていません。（使いたい方はDMか自分で用意して）</h1>
 <h2>動作</h2>
- ![combined_plots](https://github.com/user-attachments/assets/d8ec4846-5ad0-41ca-b8a0-34b396842382)
+![combined_plots](https://github.com/user-attachments/assets/cb79efd5-c770-4f03-bd0b-bc3fd60fa18d)
+
 　<br>（画像は僕の友達です）
 <h2>動き</h2>
 今のころはこんな感じです。<br>
