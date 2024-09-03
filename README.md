@@ -3,9 +3,13 @@
 ![combined_plots](https://github.com/user-attachments/assets/cb79efd5-c770-4f03-bd0b-bc3fd60fa18d)
 
 　<br>（画像は僕の友達です）
-<h2>動き</h2>
-今のころはこんな感じです。<br>
-女の子の写真をみて、点数をつけて、タグ別に評価したいです。
+<h2>使い方</h2>
+１，data/user_ratings.csvの中のデータを全部消す<br>
+２，server.jsをnode.jsで実行する
+３，回答する
+４，test.Rを実行する
+５，作成されたjpgを見る
+
 <h2>使用ライブラリ</h2>
 library(readr)
 library(dplyr)
