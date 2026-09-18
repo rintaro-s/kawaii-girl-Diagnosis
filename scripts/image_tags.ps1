@@ -1,6 +1,4 @@
-# image_tags.ps1
 
-# タグのリストを定義s
 $tags = @{
     1 = @('眼鏡', 'ロリ', '巨乳')
     2 = @('貧乳', 'お姉さん', 'ロングヘア')
@@ -34,10 +32,7 @@ $tags = @{
     30 = @('貧乳', 'ロングヘア', '地雷系')
 }
 
-# CSVファイルパス
 $outputPath = ".\tags\tags.csv"
-
-# CSVに書き込み
 $tags.GetEnumerator() | ForEach-Object {
     [PSCustomObject]@{
         ImageNumber = $_.Key
